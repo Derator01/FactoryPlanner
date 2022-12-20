@@ -4,7 +4,7 @@ namespace FactoryPlanner.FactoryTypes.Transport.Inserters;
 
 public class StackInserter : IInserter
 {
-    public double Speed { get; } = 4.8;
+    public double Speed { get; } = 12;
 
     public int Distance { get; } = 1;
 
